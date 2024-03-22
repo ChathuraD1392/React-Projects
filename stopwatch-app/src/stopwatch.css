@@ -1,0 +1,17 @@
+.card {
+  width: 18rem;
+}
+
+h2,
+h6,
+.time,
+.timeBtn {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+span,
+.btn {
+  margin-left: 10px;
+}
