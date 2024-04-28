@@ -1,0 +1,41 @@
+body {
+  background-color: #35374b;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.mainDiv {
+  text-align: center;
+}
+
+.topic {
+  font-size: 40px;
+
+  color: aliceblue;
+}
+.card {
+  text-align: center;
+  display: flex;
+  width: 20rem;
+  /* /border: none; */
+  margin: auto;
+  border-radius: 10px;
+}
+.boxes {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(184, 184, 184);
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 2px;
+}
+
+.btn {
+  background-color: aliceblue;
+  border-radius: 10px;
+  width: 120px;
+  height: 45px;
+  text-align: center;
+  font: inherit;
+  font-size: 15px;
+}
