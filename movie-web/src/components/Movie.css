@@ -1,0 +1,52 @@
+.movie {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.headerDiv .h2 {
+  margin: 20px;
+  padding: 20px;
+  color: red;
+  font-size: 40px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.body {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+.imgSearch {
+  background-color: transparent;
+  width: 45px;
+  height: 45px;
+  border-radius: 50px;
+  border: none;
+  position: relative;
+  z-index: 1;
+  right: 50px;
+}
+
+.body .inputSearch {
+  width: 500px;
+  height: 50px;
+  border-radius: 30px;
+  font-size: 20px;
+  padding-left: 20px;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.container {
+  margin-top: 5%;
+}
+.row {
+  justify-content: center;
+}
+
+.headeDiv {
+  height: 150px;
+  padding: 15px;
+}
